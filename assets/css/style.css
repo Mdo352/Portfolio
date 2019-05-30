@@ -15,8 +15,13 @@ main {
   flex: 1 0 auto;
 }
 
+#photo{
+  height: 500px;
+  overflow: hidden;
+}
+
 .card-image{
-  height: 200px; /* Your height here */
+  height: 200px;
   overflow: hidden;
 }
 
